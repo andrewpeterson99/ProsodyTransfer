@@ -1,0 +1,9 @@
+azure_storage==0.37.0
+gTTS==2.4.0
+numpy==1.24.4
+pydub==0.25.1
+Requests==2.31.0
+soundfile==0.12.1
+SoundFile==0.10.3.post1
+SpeechRecognition==3.10.0
+stable_ts==2.13.5
